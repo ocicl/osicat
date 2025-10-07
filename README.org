@@ -4,6 +4,6 @@ Osicat is a lightweight operating system interface for Common Lisp
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/osicat/osicat.git |
-| commit  | 37a3521                                  |
+| commit  | 68732bd                                  |
 | systems | osicat                                   |
 |---------+------------------------------------------|
